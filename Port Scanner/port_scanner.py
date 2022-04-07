@@ -1,12 +1,3 @@
-#import socket
-#import time
-#import os
-#import requests
-#import ipaddress
-#import subprocess
-#import sys
-#from datetime import datetime
-
 import threading
 import socket
 import numpy as np
